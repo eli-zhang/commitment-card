@@ -1,2 +1,2 @@
-# a-little-push
-Motivation to reach goals.
+# commitment-card
+Motivation (sometimes monetary) to reach goals.
