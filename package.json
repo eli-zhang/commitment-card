@@ -1,5 +1,5 @@
 {
-  "name": "a-little-push",
+  "name": "commitment-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,7 +28,7 @@
     "concurrently": "4.1.2",
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://eli-zhang.github.io/a-little-push/#",
+  "homepage": "https://eli-zhang.github.io/commitment-card/#",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
